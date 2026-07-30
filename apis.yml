@@ -1,4 +1,16 @@
 aid: interpol-red-notices
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/interpol-red-notices.png
 name: Interpol Red Notices
 description: "Access and search Interpol Red Notices"
 url: https://interpol.api.bund.dev/
