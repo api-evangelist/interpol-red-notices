@@ -39,7 +39,6 @@ apis:
   - name: Interpol Red Notices
     description: "Access and search Interpol Red Notices"
     humanURL: https://interpol.api.bund.dev/
-    baseURL: https://interpol.api.bund.dev/
     tags:
       - Government
     properties:
